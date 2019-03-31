@@ -1,0 +1,18 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Ubuntu <ubuntu@ip-172-31-11-32.ec2.internal>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   test1.txt
+#
+initial commit - test git function
+xxxx:  
+xxx
+wq
+
